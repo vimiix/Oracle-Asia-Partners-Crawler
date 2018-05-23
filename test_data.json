@@ -1,0 +1,506 @@
+[
+    {
+        "id": "SCPP-MXBPNJVY",
+        "name": "ブリッジ・モーション・トゥモロー株式会社 (BMT Co,.Ltd.)",
+        "long": "139.68972159999998",
+        "add": "代々木４－２９－４, 西新宿ミノシマビル, 渋谷区, 東京都 151-0053 Japan",
+        "lat": "35.6824566"
+    },
+    {
+        "id": "SCPP-DFSBTZVC",
+        "name": "WIZROM SOFTWARE SRL",
+        "long": "26.12424580000004",
+        "add": "SITRACO CENTER, BD. D. CANTEMIR 1, ET. 6, Bucuresti, 013714 Romania",
+        "lat": "44.440161"
+    },
+    {
+        "id": "SCPP-CMWCLMOG",
+        "name": "フレックス株式会社 (FLEX K.K.)",
+        "long": "141.3267866",
+        "add": "中央区南二条西２０－２－３, ロータリー２０－７Ｆ, 札幌市, 北海道 064-0802 Japan",
+        "lat": "43.0554535"
+    },
+    {
+        "id": "SCPP-HGQDNFOR",
+        "name": "SharedLabs, Inc.",
+        "long": "-81.65956039999998",
+        "add": "118 W Adams St Ste 200, Jacksonville, FL 32202 United States",
+        "lat": "30.3279704"
+    },
+    {
+        "id": "SCPP-HOIIHWMW",
+        "name": "株式会社メコム (Mecom)",
+        "long": "140.33094",
+        "add": "香澄町２－９－２１, 山形市, 山形県 990-0039 Japan",
+        "lat": "38.24757"
+    },
+    {
+        "id": "SCPP-FUYZGZMU",
+        "name": "Nsh Sistema, Consultoria E Desenvolvimento Ltda - Me (Nsh Sistema, Consultoria E Desenvolvimento Ltda - )",
+        "long": "-46.554837",
+        "add": "Av Conselheiro Carrao 357, CRB-NC 03846546000156, São Paulo, SP 03403-000 Brazil",
+        "lat": "-23.538578"
+    },
+    {
+        "id": "SC2PP-DENIS",
+        "name": "Security Problems Institute Ltd",
+        "long": "49.099699999999984",
+        "add": "2-A,1-th Grayvoronovskiy pr., Moskva, 109518 Russian Federation",
+        "lat": "57.9729"
+    },
+    {
+        "id": "SCPP-OPZCIXZO",
+        "name": "北京航嘉鸿信科技发展有限公司 (Beijing Hangjia Hongxin Technology Development Co.)",
+        "long": "116.44173320000004",
+        "add": "朝阳区左家庄中街豪成大厦1109室, 北京市, 100028 China",
+        "lat": "39.955279"
+    },
+    {
+        "id": "SC2PP-ARIHANTINFOSYSTEMS",
+        "name": "Arihant Adroit InfoSystems Private Limited (Arihant Adroit InfoSystems)",
+        "long": "73.85674369999992",
+        "add": "Sunflower Complex,A-10, 4th Floor, Pune, Maharashtra 411045 India",
+        "lat": "18.5204303"
+    },
+    {
+        "id": "SCPP-ZUAJQBML",
+        "name": "Datalog, Inc.",
+        "long": "-117.64608800000002",
+        "add": "27762 Golden Ridge Ln, San Juan Capistrano, CA 92675 United States",
+        "lat": "33.521451"
+    },
+    {
+        "id": "SCPP-OKQXTAGZ",
+        "name": "(주)혁산정보시스템 (Hyuksan Information System Co Ltd)",
+        "long": "126.895684",
+        "add": "영등포구 문래동3가 55-20, 에이스하이테크시티2동 1606호, 영등포구, 07299 Korea",
+        "lat": "37.508539"
+    },
+    {
+        "id": "SCPP-CWILPPMC",
+        "name": "Addovation AS",
+        "long": "10.209686099999999",
+        "add": "Grev Wedels Plass 2, Drammen, 3015 Norway",
+        "lat": "59.74196619999999"
+    },
+    {
+        "id": "SCPP-AKYTPIET",
+        "name": "上海千穰数据科技有限公司 (QuicRun Data Technology Co Ltd.)",
+        "long": "121.44158100000004",
+        "add": "澳门路356号三维大厦23楼, 上海市, 200060 China",
+        "lat": "31.247216"
+    },
+    {
+        "id": "SCPP-4CITSOFTWARE",
+        "name": "4cit Software Solutions (Pty) Ltd",
+        "long": "-96.359261",
+        "add": "Unit 1, Ground Floor,, 1 Tygervalley Chambers, Congo, Congo The Democratic Republic",
+        "lat": "30.685856"
+    },
+    {
+        "id": "SCPP-PFSLAMDP",
+        "name": "White Cloud Security",
+        "long": "-97.78829659999997",
+        "add": "10109 Lake Creek Pkwy Unit 170422, Austin, TX 78717 United States",
+        "lat": "30.4638638"
+    },
+    {
+        "id": "SC2PP-PDG-CONSULTING",
+        "name": "PDG Consulting Limited (Pdg Consulting Ltd)",
+        "long": "-1.2434731",
+        "add": "5-6 Rivermead, Pipers Way, Thatcham, RG19 4EP United Kingdom",
+        "lat": "51.3949773"
+    },
+    {
+        "id": "SCPP-KCNRMKAY",
+        "name": "Rainbow Tech Limited",
+        "long": "114.16910699999994",
+        "add": "5 Canton Rd Flt RM826, 8 F, Hong Kong, Hong Kong",
+        "lat": "22.2957533"
+    },
+    {
+        "id": "SCPP-POAZTXKX",
+        "name": "Vesuti LLC",
+        "long": "55.143595199999936",
+        "add": "P.O. Box 124904, Office 3605 JBC 1 Cluster G JLT, Dubai, United Arab Emirates",
+        "lat": "25.0710346"
+    },
+    {
+        "id": "SC2PP-CNS",
+        "name": "dba-experts GmbH",
+        "long": "7.358889999999974",
+        "add": "Ardeystr. 133, Dortmund, 44225 Germany",
+        "lat": "51.45689"
+    },
+    {
+        "id": "SCPP-ACTUM",
+        "name": "ACCION COMERCIAL TECNOLOGICA UNIVERSAL DE MEXICO S DE RL DE CV (ACCION COMERCIAL TECNOLOGICA UNIVERSAL DE MEXICO S)",
+        "long": "-103.46586350000001",
+        "add": "Granado, 21, Zapopan, Jalisco 45069 Mexico",
+        "lat": "20.62877"
+    },
+    {
+        "id": "SC2PP-DHAIRYASHEEL",
+        "name": "In-Solutions Global Pvt Ltd.",
+        "long": "72.823803",
+        "add": "601, palm spring, link road, Mumbai, Maharashtra 400001 India",
+        "lat": "19.144708"
+    },
+    {
+        "id": "SCPP-NOUAOVHR",
+        "name": "Clustin S.R.L",
+        "long": "8.025642800000014",
+        "add": "Corso Canale 10, Alba, 12051 Italy",
+        "lat": "44.7105638"
+    },
+    {
+        "id": "SCPP-SEMCASTING",
+        "name": "Semcasting, Inc",
+        "long": "-71.12508600000001",
+        "add": "41 High St, North Andover, MA 01845 United States",
+        "lat": "42.70197"
+    },
+    {
+        "id": "SCPP-OMCFQNTI",
+        "name": "IDS Marketing Company LLC",
+        "long": "69.21666670000002",
+        "add": "21-1 Uzbekistan Ovozi St., Tashkent, 100000 Uzbekistan",
+        "lat": "41.26666669999999"
+    },
+    {
+        "id": "SCPP-VAEMERVQ",
+        "name": "MATRIX I.T. TRAVEL SOLUTIONS LTD",
+        "long": "34.84467700000005",
+        "add": "1 Abba Even St., P.O.B \u2013 2062, Herzliya, 46120 Israel",
+        "lat": "32.162412"
+    },
+    {
+        "id": "SCPP-UVCNQJKZ",
+        "name": "株式会社ＹＪＫＳｏｌｕｔｉｏｎｓ (YJK Solutions)",
+        "long": "139.752426",
+        "add": "西新橋３－２３－５, 御成門郵船ビル, 港区, 東京都 105-0003 Japan",
+        "lat": "35.665821"
+    },
+    {
+        "id": "SCPP-PUDBYXUV",
+        "name": "Createch Software Pvt Ltd",
+        "long": "77.20902120000005",
+        "add": "10, First Fl., Satya Niketan, Moti Bagh-II, New Delhi, Delhi 110021 India",
+        "lat": "28.6139391"
+    },
+    {
+        "id": "SCPP-HZJWBEZG",
+        "name": "Nubisk Asesorias En Informatica SPA",
+        "long": "-70.5594438",
+        "add": "loreley 232, la reina, Santiago, Region Metropolitana 7850550 Chile",
+        "lat": "-33.450306"
+    },
+    {
+        "id": "SCPP-SYYGRWTU",
+        "name": "Veloce",
+        "long": "-71.2044009",
+        "add": "860 av Taniata, St-Jn-Chrysos, G6Z 2E2 Canada",
+        "lat": "46.7268971"
+    },
+    {
+        "id": "SCPP-TSFRTGOV",
+        "name": "Itelca SAS",
+        "long": "-74.0602968",
+        "add": "Calle 94 47-25, Bogota, Distrito Capital 111211135 Colombia",
+        "lat": "4.6820073"
+    },
+    {
+        "id": "SCPP-PROJECTAIASIAPACIFICPTYLT",
+        "name": "ProjectAI Asia-pacific Pty Ltd",
+        "long": "115.83454630000006",
+        "add": "Level 5 / 72 Kings Park Road, West Perth, WA 6005 Australia",
+        "lat": "-31.9505322"
+    },
+    {
+        "id": "SCPP-ARZBAQFO",
+        "name": "Wolters Kluwer ELM Solutions",
+        "long": "-95.46013879999998",
+        "add": "3009 Post Oak Blvd, Ste 1100, Houston, TX 77056 United States",
+        "lat": "29.7358784"
+    },
+    {
+        "id": "SCPP-AKUAQEPO",
+        "name": "株式会社アプレッソ (APPRESSO)",
+        "long": "139.7336209",
+        "add": "関口１－２０－１０, 文京区, 東京都 112-0014 Japan",
+        "lat": "35.70924490000001"
+    },
+    {
+        "id": "SCPP-DTQQTMJK",
+        "name": "Eigen Development Ltd",
+        "long": "-123.14604",
+        "add": "1807 West 10th Ave, Eigen Development, Vancouver, V6J 2A9 Canada",
+        "lat": "49.26275"
+    },
+    {
+        "id": "SCPP-SKFATKXG",
+        "name": "32 Styles Limited",
+        "long": "114.188858",
+        "add": "Unit 11, 5/F, Block B, Hi-Tech Industrial Centre, 491-501 Castle Peak Road, Tsuen Wan, N.T., Hong Kong, Hong Kong",
+        "lat": "22.37549"
+    },
+    {
+        "id": "SCPP-GKHJGYVK",
+        "name": "Qualogy Suriname NV",
+        "long": "-55.155532",
+        "add": "Uranusstraat 78, PO Box 12865, Paramaribo, Suriname",
+        "lat": "5.826744"
+    },
+    {
+        "id": "SCPP-SFRWTZKB",
+        "name": "株式会社エム・エス・アイ (MSI Co., Ltd.)",
+        "long": "139.707306",
+        "add": "新宿１－１－７, コスモ新宿御苑ビル６Ｆ, 新宿区, 東京都 160-0022 Japan",
+        "lat": "35.694361"
+    },
+    {
+        "id": "SCPP-VZRMYIGN",
+        "name": "Teqnavi",
+        "long": "-96.60290140000001",
+        "add": "5250 Highway 78 Ste 750-222, Sachse, TX 75048 United States",
+        "lat": "32.9699069"
+    },
+    {
+        "id": "SCPP-CGRLGOXH",
+        "name": "CenturyLink",
+        "long": "-77.42340899999999",
+        "add": "2355 Dulles Corner Blvd, Herndon, VA 20171 United States",
+        "lat": "38.9587519"
+    },
+    {
+        "id": "SCPP-URLGUHTP",
+        "name": "Beacon Systems, Inc.",
+        "long": "-80.28256039999997",
+        "add": "3928 Coral Ridge Dr, Coral Springs, FL 33065 United States",
+        "lat": "26.2790972"
+    },
+    {
+        "id": "SCPP-NRASLHAS",
+        "name": "KPMG Auditores Consultores",
+        "long": "-70.59799220000002",
+        "add": "Apoquindo 3039, Piso 5, Santiago, Región Metropolitana 7550227 Chile",
+        "lat": "-33.4173728"
+    },
+    {
+        "id": "SCPP-MBGWJWNT",
+        "name": "Gapblue Software Labs Private Limited",
+        "long": "76.29578839999999",
+        "add": "Kaloor-Kadavanthra Road, Kumaranasan Jn., Ernakulam, Kerala 682020 India",
+        "lat": "9.9834067"
+    },
+    {
+        "id": "SCPP-KSGANKYS",
+        "name": "Skipio, LLC",
+        "long": "-111.79485110000001",
+        "add": "615 S. 150 E., American Fork, UT 84003 United States",
+        "lat": "40.3894731"
+    },
+    {
+        "id": "SCPP-PKZNOSRM",
+        "name": "ŠPICA INTERNATIONAL d.o.o. Ljubljana (SPICA INTERNATIONAL d.o.o. Ljubljana)",
+        "long": "14.540250",
+        "add": "Pot k sejmišču 33, Ljubljana, 1231 Slovenia",
+        "lat": "46.095652"
+    },
+    {
+        "id": "SCPP-AWADAC",
+        "name": "Awadac",
+        "long": "3.8767159999999876",
+        "add": "Rond-Point Benjamin Franklin,, Montpellier, 34000 France",
+        "lat": "43.610769"
+    },
+    {
+        "id": "SCPP-HSOGWZJF",
+        "name": "주식회사 씨씨미디어서비스 (CCMEDIA SERVICE)",
+        "long": "126.88992080000003",
+        "add": "가마산로25길 9-9 구로동 케이엠타워 7층, 구로구, 08301 Korea",
+        "lat": "37.4963845"
+    },
+    {
+        "id": "SCPP-LXGUJBLM",
+        "name": "Byteworks Technology Solutions Ltd",
+        "long": "7.441174300000057",
+        "add": "12 Y. P. O Sodeinde Street, Utako, 900108 Nigeria",
+        "lat": "9.0723652"
+    },
+    {
+        "id": "SCPP-ROTISYOP",
+        "name": "HR Lead Consulting Pty. Ltd.",
+        "long": "115.74611670000002",
+        "add": "U 1 11 Rafferty Rd, Mandurah, WA 6210 Australia",
+        "lat": "-32.5181945"
+    },
+    {
+        "id": "SCPP-FPOJOIRF",
+        "name": "FullSIX Group",
+        "long": "-73.957191",
+        "add": "80 Franklin St, Brooklyn, NY 11222 United States",
+        "lat": "40.727329"
+    },
+    {
+        "id": "SCPP-UPDUIFYU",
+        "name": "The Casey Group",
+        "long": "-121.288181",
+        "add": "1001 sunset blvd, Rocklin, CA 95765 United States",
+        "lat": "38.816743"
+    },
+    {
+        "id": "SCPP-UYYIGTJD",
+        "name": "Carbon8 Private Limited",
+        "long": "73.03357449999998",
+        "add": "office 563, street 1, lane 119, G-9/3,, Islamabad, 44000 Pakistan",
+        "lat": "33.6941977"
+    },
+    {
+        "id": "SCPP-BETYJGGX",
+        "name": "IMG",
+        "long": "48.028999999999996",
+        "add": "Dhajeej, Farwaniya, Hawalli, 32057 Kuwait",
+        "lat": "29.333"
+    },
+    {
+        "id": "SCPP-FDPBMLPZ",
+        "name": "It- Change Srl",
+        "long": "10.109599",
+        "add": "Via Paglia 21 B, Bergamo, 24122 Italy",
+        "lat": "45.69067"
+    },
+    {
+        "id": "SCPP-VNBMNSHU",
+        "name": "Concept Electronics SRL",
+        "long": "26.093105299999934",
+        "add": "13A LONDRA STREET , sector 1, Bucureşti, 011761 Romania",
+        "lat": "44.4556052"
+    },
+    {
+        "id": "SC2PP-PCS",
+        "name": "NIS Systems, s.r.o. (PCS Systems spol. s r.o.)",
+        "long": "14.4371877",
+        "add": "Na Hlinách 1786/16, Praha 8, Praha, 182 00 Czech Republic",
+        "lat": "50.0399737"
+    },
+    {
+        "id": "SCPP-VYMUPOTJ",
+        "name": "Westcon Brasil Ltda",
+        "long": "-43.225929",
+        "add": "R Victor Civita 66 Bloco 01 Salas 201 A 203 Eloja 102, CRB-C 28268233000601, Rio De Janeiro, RJ 22775-044 Brazil",
+        "lat": "-22.97442"
+    },
+    {
+        "id": "SCPP-JRPTUYTV",
+        "name": "Newage Software and Solutions (India) Pvt Ltd",
+        "long": "80.28990909999993",
+        "add": "Plot A-38, Phase 1, MEPZ, Tambaram, Chennai - 45, Chennai, Tamil Nadu 600045 India",
+        "lat": "13.0917724"
+    },
+    {
+        "id": "SCPP-UINNCIMT",
+        "name": "coMakeIT Software Private Ltd",
+        "long": "78.463844",
+        "add": "Plot No 564/A 39, Road No 92, Jubilee Hills, Hyderabad, Telangana 500033 India",
+        "lat": "17.387981"
+    },
+    {
+        "id": "SCPP-QKCJESOO",
+        "name": "Apollon GmbH+Co. KG",
+        "long": "8.67971",
+        "add": "Maximilianstr 104, Pforzheim, 75172 Germany",
+        "lat": "48.89246"
+    },
+    {
+        "id": "SCPP-OTDUXXDK",
+        "name": "Zuppit Tech Solutions Pvt. Ltd.",
+        "long": "77.12335400000006",
+        "add": "E-4/149, Sector -7, Rohini, New Delhi, Delhi 110085 India",
+        "lat": "28.741767"
+    },
+    {
+        "id": "SCPP-INFOPLATOS",
+        "name": "Atos IT Solutions and Services Sp. zo.o",
+        "long": "21.059641",
+        "add": "ul. Postępu 18, Warszawa, 02-676 Poland",
+        "lat": "52.250648"
+    },
+    {
+        "id": "SCPP-SXSJEULH",
+        "name": "Sitrion, Inc",
+        "long": "-104.98772220000001",
+        "add": "1999 Broadway Ste 1100, Denver, CO 80202 United States",
+        "lat": "39.7476382"
+    },
+    {
+        "id": "SCPP-VGPDWMLR",
+        "name": "Catalyst Business Partners",
+        "long": "55.31166669999993",
+        "add": "#3804, HDS Tower, P.O. Box 49935Cluster F, Dubai, DUM1 United Arab Emirates",
+        "lat": "25.2644444"
+    },
+    {
+        "id": "SC2PP-SIGAF",
+        "name": "GP Software &amp; Consulting, S. R. L.",
+        "long": "-70.161736",
+        "add": "Prolongacion Desiderio Arias Nº 30-A, Santo Domingo, 01026 Dominican Republic",
+        "lat": "18.699574"
+    },
+    {
+        "id": "SCPP-OAMTACNN",
+        "name": "株式会社ポストシステムズ (PostSystems Co.,Ltd.)",
+        "long": "139.735779",
+        "add": "赤坂１－１－１４, ＮＯＦ溜池ビル１Ｆ, 港区, 東京都 107-0052 Japan",
+        "lat": "35.671171"
+    },
+    {
+        "id": "SCPP-JUFYQUNN",
+        "name": "Ng Soft Ltd.",
+        "long": "77.24703120000004",
+        "add": "office 12, 99, Ryskulova street, Almaty, 050061 Kazakhstan",
+        "lat": "43.3205832"
+    },
+    {
+        "id": "SCPP-GVQTXFVI",
+        "name": "MHM computer a.s.",
+        "long": "14.539302300000031",
+        "add": "U Pekáren 4/1309, Praha 10, Praha, 102 00 Czech Republic",
+        "lat": "50.0567347"
+    },
+    {
+        "id": "SCPP-MCIFROFS",
+        "name": "Cmnet Solucoes Em Informatica E Agencia De Viagens E Turismo S/A (Cmnet Solucoes Em Informatica E Agencia De Viagens)",
+        "long": "-42.49747430000002",
+        "add": "Rua Coronel Madureira 135 Sala 201, CRB-NC, Saquarema, RJ 28990-000 Brazil",
+        "lat": "-22.9320727"
+    },
+    {
+        "id": "SC2PP-DENIS",
+        "name": "Security Problems Institute Ltd",
+        "long": "49.099699999999984",
+        "add": "2-A,1-th Grayvoronovskiy pr., Moskva, 109518 Russian Federation",
+        "lat": "57.9729"
+    },
+    {
+        "id": "SCPP-OPZCIXZO",
+        "name": "北京航嘉鸿信科技发展有限公司 (Beijing Hangjia Hongxin Technology Development Co.)",
+        "long": "116.44173320000004",
+        "add": "朝阳区左家庄中街豪成大厦1109室, 北京市, 100028 China",
+        "lat": "39.955279"
+    },
+    {
+        "id": "SCPP-OKQXTAGZ",
+        "name": "(주)혁산정보시스템 (Hyuksan Information System Co Ltd)",
+        "long": "126.895684",
+        "add": "영등포구 문래동3가 55-20, 에이스하이테크시티2동 1606호, 영등포구, 07299 Korea",
+        "lat": "37.508539"
+    },
+    {
+        "id": "SCPP-CWILPPMC",
+        "name": "Addovation AS",
+        "long": "10.209686099999999",
+        "add": "Grev Wedels Plass 2, Drammen, 3015 Norway",
+        "lat": "59.74196619999999"
+    }
+]
